@@ -1,0 +1,40 @@
+body {
+  background-color: #D3E6FF;
+}
+
+h1 {
+  color: #368DFF;
+  margin: 10px;
+  font-size: 40px;
+  font-family: monospace;
+  text-shadow: 2px 2px 5px #6AABFF;
+  border: 8px solid #FF71A3;
+  border-radius: 20px;
+  padding: 25px 25px 25px 25px;
+
+}
+
+#p {
+  font-family: monospace;
+  color: #992C52;
+  font-size: 30px;
+  width: 800px;
+  border: 8px outset #B260FF;
+  border-radius: 20px;
+  background-image: linear-gradient(#FFF, #FFC1E1, #FF8DC8);
+  padding: 50px;
+  margin: 10px;
+
+}
+
+#poggers {
+  font-family: monospace;
+  color: white;
+  font-size: 30px;
+  padding: 50px;
+  border: 8px solid #485875;
+  background: #8290A8;
+  border-radius: 20px;
+  margin: 10px;
+
+}
